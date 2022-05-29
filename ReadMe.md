@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Bookmark Landing Page - Netlify]([https://your-live-site-url.com](https://bookmarklandingpage2022.netlify.app))
 
 
 ### Built with
