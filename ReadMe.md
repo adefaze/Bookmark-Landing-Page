@@ -31,9 +31,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./img/Screenshot1.png) ![](./img/Screenshot2.png)![](./img/Screenshot3.png)![](./img/Screenshot4.png)![](./img/Screenshot5.png)![](./img/Screenshot6.png)![](./img/Screenshot7.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/32702552/170861377-e8911a5f-11c0-41b1-ac96-ea6a193a8a87.png)
+![Screenshot (223)](https://user-images.githubusercontent.com/32702552/170861407-a30b0a89-59d4-4e03-962a-bfbc80a8ddc3.png)
+![Screenshot (225)](https://user-images.githubusercontent.com/32702552/170861414-f9ca10e4-d6d3-4074-9f9f-9a1766d56ff9.png)
+![Screenshot (224)](https://user-images.githubusercontent.com/32702552/170861422-f8b4bcb0-6314-423d-b19c-395c52a48369.png)
+![Screenshot (226)](https://user-images.githubusercontent.com/32702552/170861424-b2c9731b-2b55-4b75-8972-db880580a362.png)
+![Screenshot (227)](https://user-images.githubusercontent.com/32702552/170861429-17412f8d-9893-4f91-9600-6fb95fbdbb86.png)
+![Screenshot (228)](https://user-images.githubusercontent.com/32702552/170861432-b7e308e0-e0ae-4dc1-8bd6-483ca9816c61.png)
 
-<img scr="./img/Screenshot1.png" width="800">
+
 
 ### Links
 
