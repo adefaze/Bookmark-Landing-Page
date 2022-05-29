@@ -33,7 +33,7 @@ Users should be able to:
 
 ![](./img/Screenshot1.png) ![](./img/Screenshot2.png)![](./img/Screenshot3.png)![](./img/Screenshot4.png)![](./img/Screenshot5.png)![](./img/Screenshot6.png)![](./img/Screenshot7.png)
 
-<img scr="./img/Screenshot1.png">
+<img scr="./img/Screenshot1.png" width="800">
 
 ### Links
 
